@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tdd.mockito.TodoBusinessImplMockTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-06-29T04:37:48" hostname="FULL404-PRT.FULL.Creative" time="0.162">
+  <properties/>
+  <testcase name="spyTest" classname="com.tdd.mockito.TodoBusinessImplMockTest" time="0.162"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
